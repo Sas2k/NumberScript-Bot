@@ -18,24 +18,15 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
-- [Getting Started](#getting_started)
-- [Deploying your own bot](#deployment)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
 This bot runs NumberScript for you.
 
 ## 💭 How it works <a name = "working"></a>
 
-
+It takes the message then runs it thorough the interpreter then send the output.
 
 The entire bot is written in Python 3.10.0
 
