@@ -35,5 +35,5 @@ The entire bot is written in Python 3.10.0
 To use the bot, type:
 
 ```
-!eval 0 2Hello 1
+$eval 0 2Hello 1
 ```
