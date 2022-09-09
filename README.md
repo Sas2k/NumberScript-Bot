@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> A bot that runs ![NumberScript](https://github.com/Sas2k/NumberScript)
+<p align="center"> A bot that runs <a href="https://github.com/Sas2k/NumberScript">NumberScript</a>
     <br> 
 </p>
 
